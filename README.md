@@ -1,6 +1,6 @@
 # Hi, I'm Gus
 
-I build web apps and tinker with AI. Mostly TypeScript, React, and Laravel — lately exploring LLMs and agents.
+I build web apps and tinker with AI. Mostly TypeScript, React, and Laravel - lately exploring LLMs and agents.
 
 **Stack** · TypeScript · React · Next.js · Node.js · Laravel · PHP · Python · AWS · Docker · GitHub Actions
 
