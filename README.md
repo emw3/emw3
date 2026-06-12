@@ -9,7 +9,13 @@ I build web apps and tinker with AI. Mostly TypeScript, React, and Laravel - lat
 
 ---
 
-### Projects
+### Tools
+
+| Project | Description |
+|---------|-------------|
+| [**Argus**](https://github.com/emw3/argus) | Terminal dashboard for your services, sessions, and system metrics. Monitors systemd, Docker, and PM2 in one view. Built with Rust, Ratatui, and Tokio (~1.5MB binary, ~3MB RAM). |
+
+### Games
 
 | Project | Description |
 |---------|-------------|
