@@ -13,6 +13,7 @@ I build web apps and tinker with AI. Mostly TypeScript, React, and Laravel - lat
 
 | Project | Description |
 |---------|-------------|
+| [**Naikan**](https://github.com/emw3/naikan) | Naikan watches a portfolio of websites and tells you they broke before the client does. Built with TypeScript + Hono API + Svelte 5/Vite SPA + Postgres/graphile-worker + Playwright UI capture + S3 artifacts + Anthropic-SDK regression judge, MCP agent interface. |
 | [**Argus**](https://github.com/emw3/argus) | Terminal dashboard for your services, sessions, and system metrics. Monitors systemd, Docker, and PM2 in one view. Built with Rust, Ratatui, and Tokio (~1.5MB binary, ~3MB RAM). |
 
 ### Games
